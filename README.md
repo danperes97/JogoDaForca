@@ -1,4 +1,4 @@
-# Jogo Da Forac
+# Jogo Da Forca
 Jogo em Ruby.
 
 Esse jogo foi criado baseado no livro Introdução a Computação - Da Lógica aos jogos com Ruby.
